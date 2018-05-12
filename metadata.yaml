@@ -1,0 +1,31 @@
+_repo: Buff--A-Collie-and-other-dog-stories_42804
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42804-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Terhune, Albert Payson
+    birthdate: 1872
+    deathdate: 1942
+    gutenberg_agent_id: '891'
+    url: http://www.gutenberg.org/2009/agents/891
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Payson_Terhune
+description: Buff helps clear his master's name of suspicion in a theft. Includes
+  seven other stories of canine valor.
+gutenberg_issued: '2013-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42804'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcsh 'Short stories'
+- !lcc 'PZ'
+tableOfContents: 'Buff: a collie -- "Something" -- Chums -- Human-interest stuff --
+  "One minute longer" -- The foul fancier -- The grudge -- The Sunnybank collies.'
+title: 'Buff: A Collie, and Other Dog-Stories'
+url: http://www.gutenberg.org/ebooks/42804
